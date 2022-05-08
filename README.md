@@ -54,7 +54,7 @@ Note : there are hidden features, check at the source code of the bot to find th
 
 𝙈𝙚𝙩𝙝𝙤𝙙 - 2 : ᴠɪᴀ ᴇᴅɪᴛɪɴɢ ʀᴇᴘᴏ ɴᴀᴍᴇ ᴀɴᴅ ʟɪɴᴋ
 
-[Guide](https://telegra.ph/How-to-create-and-use-service-accounts-sa-03-31)
+[Guide for deploying](https://telegra.ph/Temporary-Heroku-Deployment-Method-for-MSGuite-CloneBot-11-23)
 
 [![Deploy](https://telegra.ph/file/e7d224c45cf1d106a28fa.png)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https://github.com/msgsuite/clonebot_heroku)
 
